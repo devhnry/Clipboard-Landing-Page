@@ -614,6 +614,10 @@ html {
   max-width: 66.67rem;
 }
 
+.cursor-pointer {
+  cursor: pointer;
+}
+
 .flex-col {
   flex-direction: column;
 }
